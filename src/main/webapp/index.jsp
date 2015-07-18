@@ -23,6 +23,8 @@ body {
 	<h2> SqeekChat </h2>
 	<p>SqeekChat is an online <b>global</b> chat room. Our system matches with you with another person, and you chat!</p>
 	
+	<a href="login.html">Welcome! Click Here to Login </a><br/><br/>
+	
 <form>
 	username: <br>
 	<input type="text" name="username">
